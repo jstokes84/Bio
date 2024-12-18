@@ -1,8 +1,6 @@
 # Hello, I'm Jaevon Stokes
 <a href="https://linkedin.com/in/jaevon-stokes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Objective
-
 Welcome to my digital playground, where code meets creativity and innovation takes flight. Let's build the future, one commit at a time.
 
 ## Skills/Projects
