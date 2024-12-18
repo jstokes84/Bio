@@ -46,7 +46,7 @@ Welcome to my digital playground, where code meets creativity and innovation tak
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2 CC -007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cloud Practicioner-006400?&style=for-the-badge&logo=Amazon&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cloud Practicioner-006400?&style=for-the-badge&logo=AmazonWebServices&logoColor=white" />
 </div>
 
 ## Projects
