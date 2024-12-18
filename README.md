@@ -11,7 +11,7 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Keylogger         | <a href="https://google.com](https://github.com/jstokes84/Cybersecurity-Projects/tree/main/Keylogger)">Detection Lab</a>|
+| Keylogger         | <a href="https://google.com](https://github.com/jstokes84/Cybersecurity-Projects/tree/main/Keylogger">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
