@@ -42,6 +42,3 @@ Welcome to my digital playground, where code meets creativity and innovation tak
 <img src="https://img.shields.io/badge/-Cloud Practicioner-006400?&style=for-the-badge&logo=AmazonWebServices&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
