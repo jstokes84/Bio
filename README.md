@@ -15,8 +15,8 @@ Welcome to my digital playground, where code meets creativity and innovation tak
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 Created Websites:
-Reellines.pro
-wearecsa.com
+Reellines.pro,
+wearecsa.com,
 nitretix.com
 
 ## Tools
